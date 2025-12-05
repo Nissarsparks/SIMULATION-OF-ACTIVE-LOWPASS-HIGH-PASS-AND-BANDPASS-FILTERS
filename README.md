@@ -18,26 +18,32 @@ LT-Spice
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 ## LOWPASS FILTER CIRCUIT DIAGRAM 
-![WhatsApp Image 2025-12-05 at 8 54 05 PM](https://github.com/user-attachments/assets/b889eb22-5c3d-40fc-bd53-696dec051c3a)
+![WhatsApp Image 2025-12-05 at 9 55 53 PM](https://github.com/user-attachments/assets/fce90f9a-b4ac-4d0b-b9c9-d80eaaf317dd)
+
 
 
 ## OUTPUT: LOWPASS FILTER
-![WhatsApp Image 2025-12-05 at 8 52 09 PM](https://github.com/user-attachments/assets/7ee41eb5-bd63-49f9-8676-526c6509f541)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b6f48f69-9170-4105-98bd-53cf156c03df" />
+
 
 
 ## HIGHPASS FILTER CIRCUIT DIAGRAM 
-![WhatsApp Image 2025-12-05 at 8 55 08 PM](https://github.com/user-attachments/assets/241f720d-f860-4dba-ac45-6899ffe7151c)
+![WhatsApp Image 2025-12-05 at 9 55 52 PM (1)](https://github.com/user-attachments/assets/29b020b6-e1eb-4547-a2c8-0ab2656b32fd)
+
 
 
 ## OUTPUT: HIGHPASS FILTER
+![WhatsApp Image 2025-12-05 at 9 55 52 PM (2)](https://github.com/user-attachments/assets/01a1afe5-f416-4597-b64e-cd5363a90772)
 
 
 ## BANDPASS FILTER CIRCUIT DIAGRAM 
-![WhatsApp Image 2025-12-05 at 9 02 32 PM](https://github.com/user-attachments/assets/78010031-1574-47db-8087-17b38f265ff3)
+![WhatsApp Image 2025-12-05 at 9 55 50 PM](https://github.com/user-attachments/assets/233cb1b2-f165-4806-91a1-57d8424c4905)
+
 
 
 ## OUTPUT: BANDPASS FILTER 
-![WhatsApp Image 2025-12-05 at 9 03 08 PM](https://github.com/user-attachments/assets/b9f8129c-df1d-4934-845d-09956c6a9732)
+![WhatsApp Image 2025-12-05 at 9 55 52 PM](https://github.com/user-attachments/assets/00c9cf22-aa0d-45cd-a509-4132824ea869)
+
 
 
 ## RESULT :
